@@ -13,6 +13,7 @@ body{
     border: 1px lightgray solid;
     margin: 0 auto;
     border-top: none;
+    background-color: white;
 }
 
 #header{
