@@ -23,5 +23,9 @@
     width: 212px;
     height: 40px;
     background-color: red;
-    
+
+}
+
+.float{
+    float: left;
 }
