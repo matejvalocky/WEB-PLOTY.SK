@@ -67,9 +67,24 @@ body{
 
 #sekciaObrazkov{
     width: 1200px;
-    height: 160px;
+    height: 183px;
     background-color: green;
     margin: 0 auto;
+}
+
+#topProdukty{
+    width: 1200px;
+    height: 63px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+#sekciaAkcii{
+    width: 1200px;
+    height: 635px;
+    background-color: blue;
+    margin: 0 auto;
+    color: white;
 }
 
 .float{
