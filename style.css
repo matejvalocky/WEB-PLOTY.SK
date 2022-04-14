@@ -29,3 +29,7 @@
 .float{
     float: left;
 }
+
+.clearFix{
+    clear: both;
+}
