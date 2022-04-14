@@ -26,6 +26,12 @@
 
 }
 
+#menu{
+    margin: 0 auto;
+    width: 1200px;
+    height: 40px;
+}
+
 .float{
     float: left;
 }
