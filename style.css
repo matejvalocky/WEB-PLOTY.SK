@@ -3,7 +3,9 @@
     margin: 0;
 }
 
-
+body{
+    background-image: url(./textures/bg-texture.png);
+}
 
 #wrapper{
     width: 1260px;
