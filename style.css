@@ -5,6 +5,7 @@
 
 body{
     background-image: url(./textures/bg-texture.png);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 #wrapper{
@@ -31,7 +32,9 @@ body{
 
 #header ul li{
     float: left;
-    padding: 12px 19px;
+    padding: 10px 20.5px;
+    font-size: 14px;
+    
 }
 
 #kalkulacka{
