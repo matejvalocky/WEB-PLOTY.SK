@@ -41,13 +41,20 @@ body{
 #leftPartMenu{
     width: 770px;
     float: left;
-    border: 1px yellow solid;
+    /* border: 1px yellow solid; */
 }
 
 #rightPartMenu{
     width: 214px;
-    border: 1px blue solid;
+    /* border: 1px blue solid; */
 }
+
+#rightPartMenu ul {
+    float: right;
+    
+}
+
+
 
 
 .floatRight{
