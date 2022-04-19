@@ -117,10 +117,20 @@ body{
 
 .searchBar{
     width: 280px;
-    height: 120px;
+    height: 86px;
     background-color: grey;
     position: absolute;
     left: 615px;
+    padding-top: 34px;
+}
+
+.searchInput{
+    width: 276px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 0.3em;
+    padding-left: 2px;
+    
 }
 
 
