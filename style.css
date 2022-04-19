@@ -215,6 +215,14 @@ body{
     height: 60px;
     background-color: aquamarine;
     margin: 0 auto;
+    position: relative;
+}
+
+#itemMenu p{
+    border: 1px red solid;
+    display: inline-block;
+    left: 0px;
+    position: absolute;
 }
 
 #bannerSection{
