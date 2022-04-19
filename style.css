@@ -23,6 +23,7 @@ body{
     margin: 0 auto;
     background-color: rgb(24,28,52);
     
+    
 }
 
 #header ul {
@@ -64,13 +65,13 @@ body{
 
 #kalkulacka{
     width: 172px;
-    height: 41px;
+    height: 26px;
     background-color: #c01414;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: bold;
-    padding: 10px 20px;
-    display: inline-block;
+    padding: 10px 20px 5px 20px;
+    position: relative;
 
     
 }
