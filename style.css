@@ -84,15 +84,23 @@ body{
     font-weight: bold;
     padding: 10px 20px 5px 20px;
     position: relative;
+    
 
     
 }
 
 #kalkulacka img{
     position: absolute;
-    left: -22px;
+    left: -8px;
     transform: scale(0.3);
     top: -13px;
+}
+
+#kalkulacka p {
+    font-size: 14px;
+    position: absolute;
+    left: 38px;
+
 }
 
 #menu{
