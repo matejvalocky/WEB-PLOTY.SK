@@ -48,11 +48,22 @@ body{
 
 #rightPartMenu{
     width: 214px;
+    position: relative;
     /* border: 1px blue solid; */
 }
 
+
+
 #rightPartMenu ul {
     float: right;
+    
+}
+
+#rightPartMenu img{
+    position: absolute;
+    left: 172px;
+    transform: scale(0.3);
+    top: -13px;
     
 }
 
@@ -75,6 +86,13 @@ body{
     position: relative;
 
     
+}
+
+#kalkulacka img{
+    position: absolute;
+    left: -22px;
+    transform: scale(0.3);
+    top: -13px;
 }
 
 #menu{
