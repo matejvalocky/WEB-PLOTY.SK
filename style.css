@@ -139,7 +139,26 @@ body{
     
 }
 
+.shoppingBasket{
+    position: absolute;
+    background-color: rgb(138, 100, 50);
+    width: 304px;
+    height: 120px;
+    left: 896px;
+}
 
+.basketBtn{
+    width: 280px;
+    height: 50px;
+    border: 2px black solid;
+    position: absolute;
+    margin-top: 37px;
+    margin-bottom: 22px;
+    margin-right: 5px;
+    margin-left: 19px;
+
+  
+}
 
 #itemMenu{
     width: 1200px;
