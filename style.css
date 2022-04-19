@@ -102,7 +102,7 @@ body{
 
 
 .phoneImg{
-    background-color: #c01414;
+    background-color: white;
     position: absolute;
     float: left;
     width: 285px;
@@ -114,6 +114,18 @@ body{
     transform: scale(0.78);
     position: absolute;
     top: 39px;
+}
+
+.phoneText{
+    font-weight: bold;
+    left: 64px;
+    position: absolute;
+    /* border: 1px green solid; */
+    margin-top: 50px;
+}
+
+.redText{
+    color: #c01414;
 }
 
 .searchBar{
