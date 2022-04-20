@@ -175,6 +175,14 @@ body{
     transform: scale(0.5);
 }
 
+.searchBar ::placeholder{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 19px;
+}
+
 .searchInput{
     width: 275px;
     height: 50px;
