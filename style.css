@@ -81,8 +81,8 @@ body{
 
 
 #kalkulacka{
-    width: 172px;
-    height: 26px;
+    width: 212px;
+    height: 41px;
     background-color: #c01414;
     font-size: 14px;
     text-transform: uppercase;
@@ -266,7 +266,7 @@ body{
 }
 /* BANNER STYLOVANIE */
 .banner{
-    width: 695px;
+    width: 870px;
     height: 430px;
     background-color: aqua;
     position: absolute;
