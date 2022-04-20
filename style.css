@@ -362,6 +362,15 @@ body{
 }
 /* KONIEC STYLOVANIE BANNERU */
 
+.bannerCalc{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 900px;
+    top: 24px;
+}
+
 #itemSection{
     width: 1200px;
     height: 100px;
