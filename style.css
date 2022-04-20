@@ -266,11 +266,12 @@ body{
 }
 /* BANNER STYLOVANIE */
 .banner{
+    top: 23px;
     width: 870px;
     height: 430px;
-    background-color: aqua;
+    background-color: white;
     position: absolute;
-    top: 23px;
+    
 }
 * {box-sizing:border-box}
 
@@ -334,7 +335,7 @@ body{
 }
 
 /* The dots/bullets/indicators */
-.dot {
+/* .dot {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -347,12 +348,12 @@ body{
 
 .active, .dot:hover {
   background-color: #717171;
-}
+} */
 
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 2.5s;
 }
 
 @keyframes fade {
