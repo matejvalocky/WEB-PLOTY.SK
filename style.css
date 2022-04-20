@@ -262,12 +262,15 @@ body{
     height: 475px;
     margin: 0 auto;
     background-color: bisque;
+    position: relative;
 }
 
 .banner{
     width: 695px;
     height: 430px;
-    background-color: aqua;;
+    background-color: aqua;
+    position: absolute;
+    top: 23px;
 }
 
 #itemSection{
