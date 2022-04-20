@@ -205,8 +205,16 @@ body{
 .basketBtn p {
     padding-top: 10px;
     position: absolute;
-    left: 100px;
+    left: 110px;
     font-weight: bold;
+    
+}
+
+.basketBtn img {
+    transform: scale(0.5);
+    top: -9px;
+    position: absolute;
+    left: 62px;
     
 }
 
