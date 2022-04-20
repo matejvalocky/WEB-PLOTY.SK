@@ -233,6 +233,16 @@ body{
     position: relative;
 }
 
+#itemMenu ul{
+    list-style-type: none;
+    color: white;
+}
+
+#itemMenu ul li {   
+    float: left;
+    padding: 17px 10px;
+}
+
 
 
 #bannerSection{
