@@ -264,6 +264,12 @@ body{
     background-color: bisque;
 }
 
+.banner{
+    width: 695px;
+    height: 430px;
+    background-color: aqua;;
+}
+
 #itemSection{
     width: 1200px;
     height: 100px;
