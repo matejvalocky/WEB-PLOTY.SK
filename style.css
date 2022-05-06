@@ -394,24 +394,18 @@ body{
     height: 183px;
     background-color: green;
     margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    
 }
-
 
 
 .sectionImg{
     width: 12.5%;
     height: 100%;
     padding-top: 10px;
+    padding-left: 4px;
     background-color: white;
+    float: left;
+    
  }
-
-
-
-
-
 
 
 .fourth{
