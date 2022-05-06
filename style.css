@@ -394,6 +394,19 @@ body{
     height: 183px;
     background-color: green;
     margin: 0 auto;
+    
+}
+
+
+
+.sectionImg{
+    width: 12.5%;
+    height: 100%;
+    padding-top: 15px;
+    background-color: white;
+    float: left;
+    
+
 }
 
 .fourth{
@@ -405,7 +418,7 @@ body{
     justify-content: left; 
 }
 
-.fourthBorderRight{
+.borderRight{
     border-right: 2px white solid;
 }
 
