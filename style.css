@@ -386,7 +386,7 @@ body{
     width: 1200px;
     height: 100px;
     margin: 0 auto;
-    background-color: #c01414;
+    background-color: #EBEBEB;
 }
 
 #sekciaObrazkov{
@@ -394,6 +394,32 @@ body{
     height: 183px;
     background-color: green;
     margin: 0 auto;
+}
+
+.fourth{
+    width: 25%;
+    height: 100%;
+    
+    float: left;
+    display: flex;
+    justify-content: left; 
+}
+
+.fourthBorderRight{
+    border-right: 2px white solid;
+}
+
+.fourthText{
+    float: right;
+    color: #261F32;
+    font-weight: bold;
+    padding: 27px 0;
+    
+}
+
+.fourth img{
+   transform: scale(0.65);
+    
 }
 
 #topProdukty{
