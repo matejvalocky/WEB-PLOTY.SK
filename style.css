@@ -468,7 +468,7 @@ body{
 
 #sekciaAkcii{
     width: 1200px;
-    height: 635px;
+    height: 585px;
     margin: 0 auto;
     color: white;
 }
@@ -548,16 +548,81 @@ footer{
     width: 1260px;
     height: 345px;
     margin: 0 auto;
-    background-color: black;
+    background-color: #081320;
     color: white;
     position: relative;
     
     
 }
 
+.footerFirstHalf{
+    width: 50%;
+    height: 100%;
+    background-color: #081320;
+    float: left;
+    color: black;
+
+}
+
+.footerFirstHalf ul {
+    list-style-type: none;
+}
+
+.footerFirstHalf li{
+    padding-top: 19px;
+    padding-left: 15px;
+    color: #E0EBF1;
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+.padding0{
+    padding-top: 0px !important;
+}
+
+
+
+.footerSecondHalf{
+    width: 50%;
+    height: 100%;
+    background-color: #081320;
+    float: left;
+}
+
+.footerWrapper{
+    width: 280px;
+    float: left;
+}
+
+.footerWrapper h4{
+    padding-bottom: 15px;
+    padding-left: 15px;
+    color: #E0EBF1;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.footerWrapper p{
+    color:#A6BECA;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 13px;
+    line-height: 25px;
+}
+
+
+
+.footerWrapper2{
+    float: left;
+    width: 300px;
+    height: 125px;
+    background-image: url(./img/fb-banner/fb-baner.jpg);
+}
+
 #footerContent{
     position: absolute;
-    background-color: #c01414;
+    background-color: #081320;
     width: 1170px;
     height: 270px;
     top:50%;
@@ -565,6 +630,7 @@ footer{
     margin-left:-585px;/* half width*/
     margin-top:-135px;/* half height*/
 }
+
 
 
 
