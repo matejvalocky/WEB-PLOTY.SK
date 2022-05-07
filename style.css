@@ -420,8 +420,6 @@ body{
      text-align: center;
      padding-top: 132px; 
      line-height: 13px;
-   
-    
  }
 
 
@@ -465,15 +463,86 @@ body{
 
 .borderBottom{
     border-bottom: 3px black solid;
+    margin-top: 3px;
 }
 
 #sekciaAkcii{
     width: 1200px;
     height: 635px;
-    background-color: blue;
     margin: 0 auto;
     color: white;
 }
+
+.sekciaAkciiStvrtina{
+    width: 25%;
+    height: 568px;
+    border-right:       1px rgb(231, 231, 231) solid;
+    border-top:         1px rgb(231, 231, 231) solid;
+    border-bottom:      1px rgb(231, 231, 231) solid;
+    float: left;
+
+
+}
+
+.border-left{
+    border-left: 1px rgb(231, 231, 231) solid;
+}
+
+.sekciaAkciiStvrtina h4{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 27px;
+}
+
+.sekciaAkciiStvrtina p{
+    text-align: center;
+    color:rgb(116, 116, 116);
+    margin-top: 15px;
+}
+
+.detailProduktu{
+    width: 170px;
+    height: 38px;
+    background-color:#c01414;
+    margin: 0 auto;
+    
+
+}
+
+.detailProduktu h4{
+    padding: 6px 10px;
+    color: white;
+    
+}
+
+.sekciaAkciiImg{
+    background-size: cover;
+    width: 265px;
+    height: 265px;
+    margin: 16px;
+}
+
+.sekciaAkciiImg1{
+    background-image: url(./img/sekciaAkcii/175x355-PROMOTION.jpg);
+}
+
+.sekciaAkciiImg2{
+    background-image: url(./img/sekciaAkcii/175x102.jpg); 
+}
+
+.sekciaAkciiImg3{
+    background-image: url(./img/sekciaAkcii//tieniaca120.jpg); 
+}
+
+.sekciaAkciiImg4{
+    background-image: url(./img/sekciaAkcii/175x355-YDEAL.jpg);
+}
+
+
+
+
 
 footer{
     width: 1260px;
