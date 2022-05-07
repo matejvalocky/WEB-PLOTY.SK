@@ -394,6 +394,7 @@ body{
     height: 183px;
     background-color: green;
     margin: 0 auto;
+    
 }
 
 
@@ -404,6 +405,21 @@ body{
     padding-left: 4px;
     background-color: white;
     float: left;
+    position: relative;
+    
+    
+    
+ }
+
+ .popisObrazkov{
+     width: 100%;
+     font-size: 14px;
+     /* font-weight: bold; */
+     color: white;
+     position: absolute;
+     text-align: center;
+     padding-top: 137px; */
+     line-height: 13px;
     
  }
 
@@ -411,7 +427,6 @@ body{
 .fourth{
     width: 25%;
     height: 100%;
-    
     float: left;
     display: flex;
     justify-content: left; 
